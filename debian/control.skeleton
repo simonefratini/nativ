@@ -1,0 +1,8 @@
+Package: nativ 
+Section: misc
+Priority: optional
+Architecture: amd64
+Version: 1.0.0 
+Depends: cifs-utils (>=2:6.9-1)
+Maintainer: Simone Fratini <simone.fratini@gmail.com>
+Description: Nativ Vita mounter 
